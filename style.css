@@ -1,0 +1,28 @@
+.bloco{
+    border: dashed chartreuse 2px;
+    height: 100px;
+    width: 200px;
+    display: inline-block;
+    overflow: auto;
+}
+#container{
+    border: solid black 1px;
+    width: 80%;
+    margin: 0 auto;
+}
+.azul{
+    background-color: aqua;
+  
+}
+.vermelho{
+    background-color:  red;
+    
+}
+.amarelo {
+    background-color: yellow;
+     
+}
+.verde{
+    background-color: green;
+    
+}
